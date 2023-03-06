@@ -1,6 +1,6 @@
 ## hello world
 ### basic information
-* 👋 Hi, my name is Henning
+* 👋 Hi, my name is Henning [ˈhɛnɪŋ]
 * 🐵 Currently working as a Head of Software for [Chimpy AG](https://www.github.com/heychimpy)
 * 👪 Co-founded a family education [company](https://www.github.com/resilienzcloud) with my wife
 * 🗨️ Favorite programming languages are Golang, Ruby & JavaScript
