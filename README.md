@@ -6,5 +6,5 @@
 * 🗨️ Favorite programming languages are Golang, Ruby & JavaScript
 
 ### projects
-* [ra-jsonapi-client](https://www.github.com/henvo/ra-jsonapi-client) - A JSONAPI client for react-admin **(Maintainers wanted)**
+* [ra-jsonapi-client](https://www.github.com/henvo/ra-jsonapi-client) - A JSONAPI client for react-admin
 * [snack](https://www.github.com/webhunger-ch/snack) - A modular static site generator written in Go (in development)
