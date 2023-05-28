@@ -2,7 +2,7 @@
 ### basic information
 * 👋 Hi, my name is Henning [ˈhɛnɪŋ]
 * 🐵 Currently working as Head of Software at [Chimpy AG](https://www.github.com/heychimpy)
-* 👪 Co-founded a family education [company](https://www.github.com/resilienzcloud) with my wife
+* 👪 Co-founded a family education [company](https://www.github.com/familienort) with my wife
 * 🗨️ Favorite programming languages are Golang, Ruby & JavaScript
 
 ### projects
