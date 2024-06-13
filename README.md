@@ -3,7 +3,7 @@
 * 👋 Hi, my name is Henning [ˈhɛnɪŋ]
 * 🐵 Currently working as Head of Software at [Chimpy AG](https://www.github.com/heychimpy)
 * 👪 Co-founded a family education [company](https://www.github.com/familienort) with my wife
-* 🗨️ Favorite programming languages are Golang, Ruby & JavaScript
+* 🗨️ Favorite programming languages are Go, Ruby & JavaScript
 
 ### projects
 * [ra-jsonapi-client](https://www.github.com/henvo/ra-jsonapi-client) - A JSONAPI client for react-admin
